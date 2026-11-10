@@ -1,6 +1,9 @@
+验机网站
+https://xiaogua.org
+
 # Bypass MDM for macOS 💻
 
-![mdm-screen](https://raw.githubusercontent.com/assafdori/bypass-mdm/main/mdm-screen.png)
+![mdm-screen](https://raw.githubusercontent.com/sky-91/bypass-mdm/main/mdm-screen.png)
 
 A script to bypass Mobile Device Management (MDM) enrollment during macOS setup.
 
@@ -61,6 +64,10 @@ Follow these steps to bypass MDM enrollment during a fresh macOS installation:
 
 ```bash
 curl -L https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm-v2.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+```
+or
+```bash
+curl -L https://raw.githubusercontent.com/sky-91/bypass-mdm/main/bypass-mdm-v2.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 **6.** **Volume Detection** - The script will automatically detect your volumes:
@@ -131,6 +138,10 @@ curl -L https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm-v
 
 ```bash
 curl -L https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+```
+or
+```bash
+curl -L https://raw.githubusercontent.com/sky-91/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 ### Permission Errors
